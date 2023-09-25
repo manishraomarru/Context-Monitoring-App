@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Context Monitoring</string>
+    <string name="TextNausea">Nausea</string>
+    <string name="TextHeadache">Headache</string>
+    <string name="TextDiarrhea">Diarrhea</string>
+    <string name="TextSoarThroat">Soar Throat</string>
+    <string name="TextFever">Fever</string>
+    <string name="TextMuscleAche">Muscle Ache</string>
+    <string name="TextLossofSmellorTaste">Loss of Smell or Taste</string>
+    <string name="TextCough">Cough</string>
+    <string name="TextShortnessofBreath">Shortness of Breath</string>
+    <string name="TextFeelingTired">Feeling Tired</string>
+
+    <string name="ButtonSymptomsUpload">Symptoms</string>
+    <string name="ButtonSignsUpload">Upload Measurements</string>
+    <string name="ButtonRecordVideo">Record Video</string>
+    <string name="ButtonProcessing"><font color="#2980B9">Calculating...</font></string>
+    <string name="ButtonMHR">Measure Heart Rate</string>
+    <string name="ButtonMRR">Measure Respiratory Rate</string>
+    <string name="HeadingSymptonSelection">Select Symptoms</string>
+    <string name="ButtonUpdateRating">Upload symptoms</string>
+    <string name="title_activity_upload_symtoms">UploadSymtoms</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
